@@ -27,6 +27,6 @@ FileSeek Pro - это мощное приложение для поиска фа
 
 ## Связь
 
-Если у вас есть вопросы или проблемы, пожалуйста, свяжитесь со мной  <a href="https://vk.com/id516616309"><img src="https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white" alt="VK"></a> <a href="https://t.me/KapuStencka"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a> <a href="https://www.youtube.com/@AirSoftick/featured"><img src="https://img.shields.io/badge/-YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"></a>
+Если у вас есть вопросы или проблемы, пожалуйста, свяжитесь со мной  <a href="https://vk.com/id516616309"><img src="https://img.shields.io/badge/-VK-blue?style=flat-square&logo=vk&logoColor=white" alt="VK"></a> <a href="https://t.me/KapuStencka"><img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 
 Спасибо за использование FileSeek Pro!
