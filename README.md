@@ -1,4 +1,4 @@
-Скачать последнюю версию приложения [ССЫЛКА ДЛЯ СКАЧИВАНИЯ](([https://github.com/AirSoftick/FileSeek-Pro/releases/tag/untagged-1eff411833f6a375a264](https://github.com/AirSoftick/FileSeek-Pro/releases/tag/%23FileSeek)).
+Скачать последнюю версию приложения [ССЫЛКА ДЛЯ СКАЧИВАНИЯ](https://github.com/AirSoftick/FileSeek-Pro/releases/tag/%23FileSeek)).
 
 # FileSeek Pro
 
