@@ -16,7 +16,9 @@ FileSeek Pro - это мощное приложение для поиска фа
 После установки запустите приложение и введите имя файла, который вы хотите найти. Вы также можете указать дополнительные параметры для более точного поиска.
 
 ## Скриношты
-
+![FSP1 0 0_1](https://github.com/AirSoftick/FileSeek-Pro/assets/141844045/d9964193-1874-4cd4-8a50-72750a487128)
+![FSP1 0 0_2](https://github.com/AirSoftick/FileSeek-Pro/assets/141844045/7cdac4e8-68ce-451e-ab37-89c3c49126b6)
+![FSP1 0 0_3](https://github.com/AirSoftick/FileSeek-Pro/assets/141844045/1367f80b-cf30-4b8c-99e8-7840e53cdc75)
 
 ## Связь
 
